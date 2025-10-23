@@ -285,7 +285,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: I NEED YOU, TO WRITE A TEXT HERE
+  m_Text: I AM PROGRAMMER AND I CHANGED THIS TEXT BECAUSE I CAN AND YOU CAN'T
 --- !u!222 &565009777
 CanvasRenderer:
   m_ObjectHideFlags: 0
